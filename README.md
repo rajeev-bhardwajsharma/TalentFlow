@@ -677,58 +677,6 @@ The production build includes:
 
 ***
 
-## Contributing
-
-We welcome contributions! Please follow these guidelines:
-
-### Getting Started
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Make your changes
-4. Write or update tests
-5. Commit with clear messages: `git commit -m 'Add feature: description'`
-6. Push to your fork: `git push origin feature/your-feature-name`
-7. Open a Pull Request
-
-### Code Style Guidelines
-
-- Use TypeScript for all new files
-- Follow existing component patterns
-- Use functional components with hooks
-- Add JSDoc comments for complex functions
-- Keep components under 300 lines
-- Use meaningful variable names
-- Follow Airbnb JavaScript style guide
-
-### Commit Message Format
-
-```
-type(scope): subject
-
-body
-
-footer
-```
-
-Types: feat, fix, docs, style, refactor, test, chore
-
-### Pull Request Process
-
-1. Update README if needed
-2. Add tests for new features
-3. Ensure all tests pass
-4. Update documentation
-5. Request review from maintainers
-
-***
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-***
-
 ## Acknowledgments
 
 - React team for the amazing framework
@@ -739,15 +687,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ***
 
-## Support
-
-For issues, questions, or contributions:
-
-- GitHub Issues: [Project Issues](https://github.com/yourusername/talentflow-hiring-platform/issues)
-- Email: support@talentflow.dev
-- Documentation: [Wiki](https://github.com/yourusername/talentflow-hiring-platform/wiki)
-
----
 
 ## Project Status
 
@@ -757,7 +696,7 @@ Last Updated: October 30, 2025
 
 ***
 
-Built with dedication by the TalentFlow Team
+Built with dedication by the Rajeev Sharma
 
 [1](https://uideck.com/blog/free-react-templates)
 [2](https://refine.dev/blog/react-admin-template/)
@@ -766,6 +705,3 @@ Built with dedication by the TalentFlow Team
 [5](https://www.geeksforgeeks.org/mern/document-management-system-with-react-and-express-js/)
 [6](https://github.com/johnkingzy/DocumentManagementSys)
 [7](https://js.devexpress.com/React/Documentation/Guide/React_Components/Application_Template/)
-[8](https://www.scribd.com/document/714075334/React-Assessment)
-[9](https://github.com/memandip/react-student-management)
-[10](https://codesandbox.io/s/asset-management-system-iitlw9)
